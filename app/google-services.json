@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81148097388",
+    "project_id": "androidstudyjams2k25",
+    "storage_bucket": "androidstudyjams2k25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81148097388:android:3bef0eea9c917ebdb0b949",
+        "android_client_info": {
+          "package_name": "com.example.androidstudyjams2k25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgmvZ2uDp4vMovR5X5NxpgreQmEnScyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
